@@ -1,0 +1,6 @@
+url_length
+has_ip
+has_at_symbol
+has_dash
+is_https
+subdomain_count
