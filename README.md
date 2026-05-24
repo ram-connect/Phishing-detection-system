@@ -1,4 +1,4 @@
-# Phishing Detection System - Portfolio Project
+# Phishing Detection System 
 
 ## 🎯 Project Overview
 Built a machine learning-based phishing website detection system after completing IBM's Cybersecurity Essentials course.
